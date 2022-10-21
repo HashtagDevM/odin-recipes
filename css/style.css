@@ -15,7 +15,7 @@ body {
 /* Homepage */
 
 .hero-section {
-	background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
 		url("../images/hero.webp");
 	background-position: center;
 	background-repeat: no-repeat;
@@ -133,6 +133,11 @@ li {
 p {
 	max-width: 75ch;
 	line-height: 175%;
+}
+
+.step-name {
+	font-weight: bolder;
+	margin-left: 24px;
 }
 
 .home {
