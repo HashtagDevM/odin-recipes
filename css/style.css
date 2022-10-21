@@ -101,10 +101,23 @@ h1 {
 	font-style: italic;
 }
 
-img {
+.roti-image,
+.curry-image,
+.cake-image {
 	max-width: 100%;
-	width: 60%;
 	height: auto;
+}
+
+.roti-image {
+	width: 60%;
+}
+
+.curry-image {
+	width: 35%;
+}
+
+.cake-image {
+	width: 40%;
 }
 
 h2 {
