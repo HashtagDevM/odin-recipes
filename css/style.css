@@ -95,7 +95,9 @@ h1 {
 	margin-bottom: 0;
 }
 
-.author {
+.author,
+.quantity,
+.variations {
 	font-style: italic;
 }
 
