@@ -12,4 +12,4 @@ A recipe website made as part of the foundations course on the Odin Project.
 
 ## Project Screenshot
 
-![Odin Recipes Home Page](../images/screenshot.webp)
+![Odin Recipes Home Page](/images/screenshot.webp)
